@@ -1,0 +1,8 @@
+name: mqtt
+version: 1.0.1
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+dependencies:
+  mqtt_client: ^7.2.1
+  ini: '>=1.0.0'
+  test: '>=0.12.0'
